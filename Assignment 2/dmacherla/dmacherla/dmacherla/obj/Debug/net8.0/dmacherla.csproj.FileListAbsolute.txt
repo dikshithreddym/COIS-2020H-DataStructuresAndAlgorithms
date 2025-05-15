@@ -1,0 +1,4 @@
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 2\dmacherla\dmacherla\dmacherla\obj\Debug\net8.0\dmacherla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 2\dmacherla\dmacherla\dmacherla\obj\Debug\net8.0\dmacherla.AssemblyInfoInputs.cache
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 2\dmacherla\dmacherla\dmacherla\obj\Debug\net8.0\dmacherla.AssemblyInfo.cs
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 2\dmacherla\dmacherla\dmacherla\obj\Debug\net8.0\dmacherla.csproj.CoreCompileInputs.cache

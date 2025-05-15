@@ -1,0 +1,7 @@
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\bin\Debug\PE2.exe.config
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\bin\Debug\PE2.exe
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\bin\Debug\PE2.pdb
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\obj\Debug\PE2.csproj.AssemblyReference.cache
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\obj\Debug\PE2.csproj.CoreCompileInputs.cache
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\obj\Debug\PE2.exe
+C:\Users\diksh\Desktop\COIS 2020H\Practical Excercise 2\PE2\PE2\obj\Debug\PE2.pdb

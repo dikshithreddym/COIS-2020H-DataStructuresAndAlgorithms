@@ -1,0 +1,7 @@
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\bin\Debug\dmacherla.exe.config
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\bin\Debug\dmacherla.exe
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\bin\Debug\dmacherla.pdb
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\obj\Debug\dmacherla.csproj.AssemblyReference.cache
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\obj\Debug\dmacherla.csproj.CoreCompileInputs.cache
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\obj\Debug\dmacherla.exe
+C:\Users\diksh\Desktop\COIS 2020H\Assignment 1\dmacherla\dmacherla\dmacherla\obj\Debug\dmacherla.pdb
